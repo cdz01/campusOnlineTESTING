@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/campusOnlineTesting/static/js/main.3b616b38.chunk.js",
+    "main.js.map": "/campusOnlineTesting/static/js/main.3b616b38.chunk.js.map",
+    "runtime-main.js": "/campusOnlineTesting/static/js/runtime-main.c1288d8e.js",
+    "runtime-main.js.map": "/campusOnlineTesting/static/js/runtime-main.c1288d8e.js.map",
+    "static/js/2.4c1d9bf8.chunk.js": "/campusOnlineTesting/static/js/2.4c1d9bf8.chunk.js",
+    "static/js/2.4c1d9bf8.chunk.js.map": "/campusOnlineTesting/static/js/2.4c1d9bf8.chunk.js.map",
+    "index.html": "/campusOnlineTesting/index.html",
+    "static/js/2.4c1d9bf8.chunk.js.LICENSE.txt": "/campusOnlineTesting/static/js/2.4c1d9bf8.chunk.js.LICENSE.txt",
+    "static/media/HIU.87483e79.png": "/campusOnlineTesting/static/media/HIU.87483e79.png",
+    "static/media/build_uah.9e250a41.jpg": "/campusOnlineTesting/static/media/build_uah.9e250a41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1288d8e.js",
+    "static/js/2.4c1d9bf8.chunk.js",
+    "static/js/main.3b616b38.chunk.js"
+  ]
+}
